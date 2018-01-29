@@ -1,0 +1,6 @@
+model_checkpoint_path: "SaveModel.ckpt-2110001"
+all_model_checkpoint_paths: "SaveModel.ckpt-2070001"
+all_model_checkpoint_paths: "SaveModel.ckpt-2080001"
+all_model_checkpoint_paths: "SaveModel.ckpt-2090001"
+all_model_checkpoint_paths: "SaveModel.ckpt-2100001"
+all_model_checkpoint_paths: "SaveModel.ckpt-2110001"
