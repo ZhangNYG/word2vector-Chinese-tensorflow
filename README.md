@@ -1,2 +1,3 @@
 # word2vector-Chinese-tensorflow
 word2vector For Chinese with tensorflow
+基于tensorflow中example的中文版本word2vector
